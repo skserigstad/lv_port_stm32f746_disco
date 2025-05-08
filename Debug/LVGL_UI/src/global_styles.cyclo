@@ -1,0 +1,4 @@
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/../font/../draw/../misc/lv_area.h:352:23:lv_pct	2
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/../font/../draw/../misc/lv_color.h:270:26:lv_color_hex	1
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/lv_style.h:552:20:lv_style_set_size	1
+../LVGL_UI/src/global_styles.c:24:6:global_styles_init	1

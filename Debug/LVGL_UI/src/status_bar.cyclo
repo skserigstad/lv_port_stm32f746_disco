@@ -1,0 +1,13 @@
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/../font/../draw/../misc/lv_area.h:352:23:lv_pct	2
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/../font/../draw/../misc/lv_color.h:270:26:lv_color_hex	1
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/lv_style.h:552:20:lv_style_set_size	1
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/../misc/lv_style.h:558:20:lv_style_set_pad_all	1
+C:/Users/SolveigKorslien/Projects/stm32-disco-3/stm32-disco-3/lvgl/src/core/lv_obj_pos.h:184:20:lv_obj_center	1
+../LVGL_UI/src/status_bar.c:36:13:init_styles	1
+../LVGL_UI/src/status_bar.c:72:13:settings_btn_event_handler	2
+../LVGL_UI/src/status_bar.c:87:13:pause_btn_event_handler	1
+../LVGL_UI/src/status_bar.c:105:13:add_running_icon	1
+../LVGL_UI/src/status_bar.c:113:13:add_iso_icons	2
+../LVGL_UI/src/status_bar.c:124:13:add_pause_button	1
+../LVGL_UI/src/status_bar.c:138:13:add_settings_button	1
+../LVGL_UI/src/status_bar.c:155:11:ui_status_bar_create	1
